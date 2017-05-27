@@ -5,7 +5,7 @@
 	<artifactId>els-demo</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>els-demo Maven Webapp</name>
+	<name>els-demo</name>
 	<url>http://maven.apache.org</url>
 	<repositories>
 		<!-- add the elasticsearch repo -->
